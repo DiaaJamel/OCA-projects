@@ -1,0 +1,9 @@
+1. Required to create a:
+a.Wireframe for my portfolio website: Done
+b.Build it using HTML5, CSS3 and a minimum usage of bootstrap: Done
+
+---------
+2. Good SEO optimization: Done
+
+--------
+3. Responsive portfolio website: not good, should restudy fundamentals of responsivity (FlexBox & media).
