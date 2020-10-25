@@ -1,0 +1,12 @@
+1. Required to create a:
+a.Wireframe and mock-up for to-do list page: Done
+b.Build it using HTML5, CSS3 and a minimum usage of bootstrap and jQeury: Done
+
+---------
+2. Good SEO optimization: Done
+
+--------
+3. Responsive portfolio website: good.
+--------
+3. Build it using JavaScript: I'm not good, when I try to build something in JS does not work! using internet I watch a lot
+of lectures to bulid something and imitate it! I'm good in JS principles but can't using it with each other!
