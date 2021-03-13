@@ -1,0 +1,15 @@
+Trello board link:
+https://trello.com/b/M6mvBY2V/project-8-data-analysis
+
+
+Project Planning documentation:
+https://miro.com/app/board/o9J_lPvoq5Y=/
+
+To run project:
+1- make a 'project8' database
+2- pip install django-import-export
+3- py manage.py migrate and in DB (accounts_dataset --> source_id: NULL) set source_id to NULL
+4- py manage.py createsuperuser
+5- py manage.py runserver
+
+Now add a data source (poolData)
